@@ -1,5 +1,7 @@
 # Author:   Emanuele Messina
 # Description:  Disable heating, strips all extruder movement instruction pieces resulting in pure nozzle movement code. Useful for testing purposes.
+# Doc: https://github.com/emanuelemessina/CuraPostProcessingScripts
+# License: https://github.com/emanuelemessina/CuraPostProcessingScripts/LICENSE
 
 from ..Script import Script
 

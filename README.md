@@ -1,6 +1,8 @@
 # CuraPostProcessingScripts
 
-My post processing scripts for Ultimaker Cura
+My post processing scripts for Ultimaker Cura. 
+
+[License](LICENSE)
 
 ## Install
 

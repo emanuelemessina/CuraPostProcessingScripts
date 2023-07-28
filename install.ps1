@@ -1,5 +1,7 @@
 # Author : Emanuele Messina
-# Description : Installer for the cura post processing scripts.
+# Description : Installer for the cura post processing scripts. 
+# Doc: https://github.com/emanuelemessina/CuraPostProcessingScripts
+# License: https://github.com/emanuelemessina/CuraPostProcessingScripts/LICENSE
 
 param (
     [string]$CuraVersion

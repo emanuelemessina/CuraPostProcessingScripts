@@ -1,5 +1,7 @@
 # Author:   Emanuele Messina
 # Description:  Displays jobname and current layer number on the LCD with M117.
+# Doc: https://github.com/emanuelemessina/CuraPostProcessingScripts
+# License: https://github.com/emanuelemessina/CuraPostProcessingScripts/LICENSE
 
 from ..Script import Script
 from UM.Application import Application
