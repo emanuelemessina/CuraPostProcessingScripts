@@ -20,4 +20,4 @@ Overview of the available scripts
 Name  | Description
 ---------|----------
 I Like To Move It | Remove all heating and extrusions commands from the gcode. Results in pure and immediate movement. Useful for testing purposes.
-You Are Here | Displays job name and current layer on the LCD (with scrolling effect)
+You Are Here | Displays job name and current layer on the LCD (with scrolling effect).
