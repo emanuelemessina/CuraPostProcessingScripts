@@ -20,4 +20,4 @@ Overview of the available scripts
 Name  | Description
 ---------|----------
 I Like To Move It | Remove all heating and extrusions from the gcode
-You Are Here | Displays job name and current layer on the LCD
+You Are Here | Displays job name and current layer on the LCD (with scrolling effect)
